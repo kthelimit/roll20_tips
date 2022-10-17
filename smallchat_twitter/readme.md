@@ -24,7 +24,7 @@ Roll20에서 twitter 형태의 채팅을 할 수 있게 해주는 API 스크립�
 
 2. **트위터의 계정 id**는 `플레이어의 이름`을 가져옵니다. 플레이어의 이름란에 트위터 id를 입력하고 저장해주시면 됩니다.  
 
-![](https://raw.githubusercontent.com/kthelimit/roll20_tips/main/images/twitter_chat_2.png)  
+    ![](https://raw.githubusercontent.com/kthelimit/roll20_tips/main/images/twitter_chat_2.png)  
 
 3. 멘션을 하고 싶은 경우  `@(멘션을 하고 싶은 id) (하고 싶은 말)`을 적어주시면 됩니다.<br>단, 이 명령어는 맨 앞이어야하고 영어가 아니면 파랗게 변하지 않음에 주의해주세요.  
 
